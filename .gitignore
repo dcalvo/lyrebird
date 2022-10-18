@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+lyre/dataset
+lyre/spectrograms
+lyre/tacotron_checkpoints
+lyre/waveglow_checkpoints
+lyre/wavs
+lyre/tacotron2_statedict.pt
+lyre/waveglow_256channels_universal_v5.pt
